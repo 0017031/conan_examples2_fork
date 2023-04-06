@@ -1,6 +1,6 @@
 [requires]
-zlib/1.2.11
+zlib/[>1.2]
 
 [generators]
 CMakeDeps
-CMakeToolchain
+# CMakeToolchain
